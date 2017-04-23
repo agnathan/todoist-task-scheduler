@@ -1,0 +1,11 @@
+{
+  "name": "todoist-task-scheduler",
+  "version": "1.0.0",
+  "description": "When a Todoist task is created this Google Cloud Function Schedules a time on my Google Calendar to do it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
